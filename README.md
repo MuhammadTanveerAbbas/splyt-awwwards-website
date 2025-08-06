@@ -8,8 +8,6 @@
 
 This project showcases a modern web experience built to compete at leveraging **React 19**, **Tailwind CSS v4**, and **GSAP** to deliver high-performance, visually stunning, and fluidly animated interfaces.
 
-GSAP powers dynamic interactions, scroll-driven effects, and immersive transitions — all while maintaining performance and responsiveness across devices.
-
 ## 🛠️ Tech Stack
 
 - ⚛️ **React 19**
