@@ -58,7 +58,7 @@ React 19 • Tailwind CSS v4 • GSAP
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/MuhammadTanveerAbbas/splyt-awwwards-website.git
+git clone https://github.com/muhammadtanveerabbas/splyt-awwwards-website.git
 cd splyt-awwwards-website
 
 # 2. Install dependencies
