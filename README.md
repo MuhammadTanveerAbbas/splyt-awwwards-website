@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="public/images/nav-logo.svg" alt="Spylt Drinks Logo" width="100" height="100" />
+</div>
+
+<div align="center">
   <h1 align="center">Splyt 🍦 Awwwards Website ⭐</h1>
   <p align="center">
     A next level, high performance web experience designed to deliver stunning animations, parallax visuals, and award winning interactivity.
